@@ -1,6 +1,6 @@
 # Libft
 
-This project aims to create a library using C langage. This library has a lot of useful function to make your project easier. These functions is mainly exictents functions in basic C lib.
+This project aims to create a library using C langage. This library has a lot of useful function to make your project easier. These functions are mainly exictents functions in basic C lib.
 This list of functions will grow during my training at 42 school adding some project like [ft_printf](https://github.com/TheoOKERMANS/ft_printf), [get_next_line](https://github.com/TheoOKERMANS/get_next_line), and so on...
 
 # Functions
